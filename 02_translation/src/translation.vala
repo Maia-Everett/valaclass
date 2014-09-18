@@ -27,7 +27,7 @@ void init_gettext () {
 	// Magic
 	Intl.textdomain (GETTEXT_PACKAGE);
 	Intl.bindtextdomain (GETTEXT_PACKAGE, DATADIR + "/locale");
-	Intl.bind_textdomain_codeset(GETTEXT_PACKAGE, "utf-8");
+	Intl.bind_textdomain_codeset (GETTEXT_PACKAGE, "utf-8");
 }
 
 void main (string[] args) {
