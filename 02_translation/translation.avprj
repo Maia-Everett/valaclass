@@ -1,10 +1,10 @@
 ### AutoVala Project ###
 autovala_version: 11
-project_name: hello
+project_name: translation
 vala_version: 0.22
 
 
-vala_binary: src/hello
+*vala_binary: src/translation
 compile_options: -g
 *vala_check_package: atk
 *vala_check_package: cairo
@@ -15,7 +15,7 @@ compile_options: -g
 *vala_check_package: gtk+-3.0
 *vala_check_package: pango
 *vala_check_package: x11
-*vala_source: hello.vala
+*vala_source: translation.vala
 
 *po: po
 

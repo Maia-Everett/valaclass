@@ -1,0 +1,5 @@
+#!/bin/sh
+CMAKE_INSTALL_PREFIX=$PWD/install
+cd bin
+cmake -DCMAKE_INSTALL_PREFIX=$CMAKE_INSTALL_PREFIX ..
+cd ..

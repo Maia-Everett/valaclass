@@ -28,6 +28,5 @@
 *.x86_64
 *.hex
 
-# Temp files and directories
-bin
+# Temp files
 *~
