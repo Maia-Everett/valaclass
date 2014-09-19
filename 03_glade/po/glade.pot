@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-20 02:27+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/MainWindow.vala:48
+#, c-format
+msgid "This <b>button</b> below has been clicked <b>%d</b> time."
+msgid_plural "This <b>button</b> below has been clicked <b>%d</b> times."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/main.vala:34
+#, c-format
+msgid "Cannot create main window: %s\n"
+msgstr ""
+
+#: src/main.vala:40
+msgid "Are you sure you want to close the application?"
+msgstr ""
+
+#: data/interface/MainWindow.ui:16
+msgid "A checkbox"
+msgstr ""
+
+#: data/interface/MainWindow.ui:39
+msgid "A switch"
+msgstr ""
+
+#: data/interface/MainWindow.ui:70
+msgid "This button has never been clicked."
+msgstr ""
+
+#: data/interface/MainWindow.ui:80
+msgid "A shiny button that can be pressed for effect."
+msgstr ""
